@@ -1,4 +1,4 @@
-#K-Menas clustering algorithm
+# K-Menas clustering algorithm
 
 ->ENG<-
 Package of classes implementing the k-means clustering algorithm
