@@ -4,9 +4,11 @@ Package of classes implementing the k-means clustering algorithm
 More about the method: https://en.wikipedia.org/wiki/K-means_clustering
 
 Application:
-1)Creating a HashMap <String, Point> Object
-	-the objects of clustering are entered into the String object
-	-coordinates of clustering objects are entered into the Point object (createPoint() method)
+
+1. Creating a HashMap <String, Point> Object
++ the objects of clustering are entered into the String object
++ coordinates of clustering objects are entered into the Point object (createPoint() method)
+	
 2)Create a kMeans object
 	-HashMap and the required number of clusters are entered into the constructor
 3)Call analysis() method
